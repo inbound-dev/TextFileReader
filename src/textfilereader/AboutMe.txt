@@ -1,0 +1,5 @@
+Name: Jordan
+Age: 16
+
+School: John F. Ross
+Grade: Hopefully < 60
